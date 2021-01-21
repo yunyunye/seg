@@ -1,0 +1,1 @@
+start cmd /k "cd F:\2_jack\Deep-Learning-master\Pytorch-Seg\lesson-2\utils&f:&activate torch&python dataset.py"
